@@ -19,7 +19,7 @@ This repository will continuously update the latest papers, technical reports, b
 
 ### 📝  One-pass Visual Perception
 * [2502] [R1-Onevision：An Open-Source Multimodal Large Language Model Capable of Deep Reasoning] (R1-Onevision) [Paper](https://yangyi-vai.notion.site/r1-onevision) [Code](https://github.com/Fancy-MLLM/R1-Onevision)
-* [2502] [R1-V: Reinforcing Super Generalization Ability in Vision Language Models with Less Than $3] (R1-V) [Paper]() [Code](https://github.com/Deep-Agent/R1-V)
+* [2502] [R1-V: Reinforcing Super Generalization Ability in Vision Language Models with Less Than $3] (R1-V) [Code](https://github.com/Deep-Agent/R1-V)
 * [2502] [Boosting Multimodal Reasoning with MCTS-Automated Structured Thinking] [Paper](https://arxiv.org/abs/2502.02339)
 * [2501] [LlamaV-o1: Rethinking Step-by-step Visual Reasoning in LLM] (LlamaV-o1) [Paper](https://arxiv.org/abs/2501.06186) [Code](https://github.com/mbzuai-oryx/LlamaV-o1)
 * [2501] [Kimi k1.5: Scaling Reinforcement Learning with Large Language Models] (Kimi k1.5) [Paper](https://arxiv.org/abs/2501.12599) [Code](https://github.com/moonshotai/kimi-k1.5)
