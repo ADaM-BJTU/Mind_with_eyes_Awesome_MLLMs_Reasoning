@@ -4,8 +4,8 @@ This repository will continuously update the latest papers, technical reports, b
 
 ## 📢 Updates
 
-- ✨ **2025.03.19**: Our paper is now available in [arxiv]().
-- 🚀 **2025.03.17**: We released this repo.
+- ✨ **2025.03.xx**: Our paper is now available in [arxiv]().
+- 🚀 **2025.03.xx**: We released this repo.
 
 ## 📚 Table of Contents
 - [1. Language-centric Multimodal Reasoning](#1-language-centric-multimodal-reasoning)
