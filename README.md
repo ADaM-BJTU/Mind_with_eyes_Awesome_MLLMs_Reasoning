@@ -42,15 +42,14 @@ This repository will continuously update the latest papers, technical reports, b
 * [2403] [HYDRA: A Hyper Agent for Dynamic Compositional Visual Reasoning] (HYDRA) [Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03012.pdf) [Code](https://github.com/ControlNet/HYDRA)
 * [2310] [DDCoT: Duty-Distinct Chain-of-Thought Prompting for Multimodal Reasoning in Language Models] (DDCoT) [Paper](https://arxiv.org/abs/2310.16436) [Code](https://github.com/SooLab/DDCOT)
 
-## 🚀  2. Collaborative Mulltimodal Reasoning
+## 🚀  2. Collaborative Multimodal Reasoning
 * [2502] [Investigating Inference-time Scaling for Chain of Multi-modal Thought: A Preliminary Study] [Paper](https://arxiv.org/abs/2502.11514)
 * [2501] [Imagine while Reasoning in Space: Multimodal Visualization-of-Thought] (MVoT) [Paper](https://arxiv.org/abs/2501.07542)
-* [2409] [Enhancing LLM Reasoning via Vision-Augmented Prompting] () [Paper](https://arxiv.org/html/2409.13980v1) [Code](https://cvr-llm.github.io/)
+* [2409] [Enhancing LLM Reasoning via Vision-Augmented Prompting] [Paper](https://arxiv.org/html/2409.13980v1) [Code](https://cvr-llm.github.io/)
 * [2406] [Visual SKETCHPAD: Sketching as a Visual Chain of Thought for Multimodal Language Models] (Visual SKETCHPAD) [Paper](https://arxiv.org/abs/2406.09403) [Code](https://github.com/Yushi-Hu/VisualSketchpad)
 * [2405] [Image-of-Thought Prompting for Visual Reasoning Refinement in Multimodal Large Language Models] (IoT) [Paper](https://arxiv.org/abs/2405.13872)
 
-
-## 📊  3. Benchmarks on Multimodall Reasoning
+## 📊  3. Benchmarks on Multimodal Reasoning
 * [2502] [Multimodal Inconsistency Reasoning (MMIR): A New Benchmark for Multimodal Reasoning Models] (MMIR) [Paper](https://arxiv.org/abs/2502.16033) [Code](https://github.com/eric-ai-lab/MMIR)
 * [2502] [ZeroBench: An Impossible Visual Benchmark for Contemporary Large Multimodal Models] (ZeroBench) [Paper](https://arxiv.org/abs/2502.09696) [Code](https://github.com/jonathan-roberts1/zerobench)
 * [2502] [MME-CoT: Benchmarking Chain-of-Thought in Large Multimodal Models for Reasoning Quality, Robustness, and Efficiency] (MME-CoT) [Paper](https://arxiv.org/abs/2502.09621) [Code](https://github.com/CaraJ7/MME-CoT)
