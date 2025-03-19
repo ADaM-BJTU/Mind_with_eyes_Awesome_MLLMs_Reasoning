@@ -1,6 +1,6 @@
 # Mind with eyes: From Language Reasoning to Multimodal Reasoning
 
-This repository will continuously update the latest [Paper]s, technical reports, benchmarks about multimodal reasoning!
+This repository will continuously update the latest Papers, technical reports, benchmarks about multimodal reasoning!
 
 ## 🎇 Introduction
 ![](assets/Overview.jpg)
