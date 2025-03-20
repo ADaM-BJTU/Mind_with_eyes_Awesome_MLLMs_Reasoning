@@ -18,6 +18,7 @@ The rapid advancements in language reasoning have significantly accelerated prog
 - [2. Collaborative Multimodal Reasoning](#2-collaborative-multimodal-reasoning)
 - [3. Benchmarks on Multimodal Reasoning](#3-benchmarks-on-multimodal-reasoning)
 
+![](assets/Survey.jpg)
 
 ## 📖  1. Language-centric Multimodal Reasoning
 
