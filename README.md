@@ -1,10 +1,10 @@
-# Mind with eyes: From Language Reasoning to Multimodal Reasoning
+# Mind with Eyes: From Language Reasoning to Multimodal Reasoning
 
 This repository will continuously update the latest Papers, technical reports, benchmarks about multimodal reasoning!
 
 ## 🎇 Introduction
 ![](assets/Overview.jpg)
-The rapid advancements in language reasoning have significantly accelerated progress in multimodal reasoning. This survey provides a systematic overview of the latest multimodal reasoning approaches and benchmark datasets, categorizing existing methods into two paradigms: **language-centric multimodal reasoning** and **collaborative multimodal reasoning**. The former encompasses one-pass visual perception and active visual perception, where vision primarily serves a supporting role in reasoning. The latter involves action generation and state updates, enabling a more dynamic interaction between modalities. Furthermore, we analyze the technical evolution of these methods, discuss their inherent challenges, and introduce key benchmark tasks and evaluation metrics for assessing multimodal reasoning performance.
+Language models have recently advanced into the realm of reasoning, yet it is through multimodal reasoning that we can fully unlock the potential to achieve more comprehensive, human-like cognitive capabilities. This survey provides a systematic overview of the recent multimodal reasoning approaches, categorizing them into two levels: **language-centric multimodal reasoning** and **collaborative multimodal reasoning**. The former encompasses one-pass visual perception and active visual perception, where vision primarily serves a supporting role in language reasoning. The latter involves action generation and state update within reasoning process, enabling a more dynamic interaction between modalities. Furthermore, we analyze the technical evolution of these methods, discuss their inherent challenges, and introduce key benchmark tasks and evaluation metrics for assessing multimodal reasoning performance. Finally, we provide insights into future research directions from the following two perspectives: (i) from visual-language reasoning to omnimodal reasoning and (ii) from multimodal reasoning to multimodal agents. This survey aims to provide a structured overview that will inspire further advancements in multimodal reasoning research.
 
 ## 📢 Updates
 
