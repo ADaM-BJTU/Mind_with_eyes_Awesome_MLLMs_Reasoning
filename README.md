@@ -55,6 +55,7 @@ The rapid advancements in language reasoning have significantly accelerated prog
 * [2405] [Image-of-Thought Prompting for Visual Reasoning Refinement in Multimodal Large Language Models] (IoT) [[Paper]](https://arxiv.org/abs/2405.13872)
 
 ## 📊  3. Benchmarks on Multimodal Reasoning
+![](assets/Benchmark.jpg)
 * [2502] [Multimodal Inconsistency Reasoning (MMIR): A New Benchmark for Multimodal Reasoning Models] (MMIR) [[Paper]](https://arxiv.org/abs/2502.16033) [[Code]](https://github.com/eric-ai-lab/MMIR)
 * [2502] [ZeroBench: An Impossible Visual Benchmark for Contemporary Large Multimodal Models] (ZeroBench) [[Paper]](https://arxiv.org/abs/2502.09696) [[Code]](https://github.com/jonathan-roberts1/zerobench)
 * [2502] [MME-CoT: Benchmarking Chain-of-Thought in Large Multimodal Models for Reasoning Quality, Robustness, and Efficiency] (MME-CoT) [[Paper]](https://arxiv.org/abs/2502.09621) [[Code]](https://github.com/CaraJ7/MME-CoT)
