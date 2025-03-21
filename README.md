@@ -8,7 +8,7 @@ The rapid advancements in language reasoning have significantly accelerated prog
 
 ## 📢 Updates
 
-- ✨ **2025.03.21**: The [Paper] is now available in [arxiv]().
+- ✨ **2025.03.21**: The [Paper] is now available in [here](./survey.pdf).
 - 🚀 **2025.03.15**: We released this repo.
 
 ## 📚 Table of Contents
